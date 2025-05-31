@@ -1,0 +1,1 @@
+A python program that takes a Youtube URL as input, extracts the transcript, asks AI to summarize it, and returns the summary.
